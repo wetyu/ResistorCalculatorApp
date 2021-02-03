@@ -52,4 +52,5 @@ public class DrawerManager {
             drawer.getItems().add(quitItem);
         }
     }
+	
 }
